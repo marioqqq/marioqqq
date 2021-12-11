@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marioqqq
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on some Python projects that will give me more experience in the field.
+- 📫 You can reach me via my discord marioqqq#5119
