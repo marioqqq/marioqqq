@@ -8,7 +8,7 @@
         <h1>
             Welcome to my GitHub profile
         </h1>
-        ![Profile Picture](https://www.facebook.com/photo?fbid=6134968733249687&set=a.111505292262758)
+        <img src="https://github.com/{{ contributor }}.png" width="60px;"/>
         <p>Hi, I'm Mário.</p>
     </div>
     <div class='stats'>
