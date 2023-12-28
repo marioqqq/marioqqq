@@ -16,7 +16,7 @@
                     <a href='https://github.com/marioqqq/HoneyLab'><b>HoneyLab</b></a><br>
                     Automation and services on my home lab<br>
                     <img src='https://img.shields.io/badge/Status-Active-gree' alt='Status'>
-                    <img src='https://img.shields.io/badge/Visibility-Private (Soon public)-red' alt='Visibility'>
+                    <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
                 </td>
                 <td>
                     <b>Quality control</b><br>
