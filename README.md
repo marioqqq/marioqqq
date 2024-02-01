@@ -45,7 +45,7 @@
         <h2>
             Tools I use
         </h2>
-        <table border='1' style='text-align:center; vertical-align:middle'>
+        <table border='1' style='text-align:center; vertical-align:middle; margin-left: auto; margin-right: auto;'>
             <tr>
                 <td>
                     <b>Programming languages</b><br>
