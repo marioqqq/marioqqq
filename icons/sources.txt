@@ -1,0 +1,49 @@
+Programming languages
+python    - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg
+c         - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg
+cplusplus - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg
+php       - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg
+
+SCADA/Automation
+ignition - https://inductiveautomation.com/static/images/logos/Logo-Ignition-Inverse%C2%AE@2x.d6698487831b.png
+nodered  - https://nodered.org/about/resources/media/node-red-hexagon.png
+
+Frontend development
+html5 - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg
+css3  - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg
+
+AI/ML
+pytorch - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pytorch/pytorch-original.svg
+pandas  - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg
+numpy   - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg
+opencv  - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/opencv/opencv-original.svg
+
+Database
+mssql - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/microsoftsqlserver/microsoftsqlserver-plain.svg
+mysql - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg
+redis - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redis/redis-original.svg
+
+Data visualization
+matplotlib - https://matplotlib.org/stable/_static/logo_dark.svg
+grafana    - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/grafana/grafana-original.svg
+
+Devops
+docker - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg
+bash   - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg
+git    - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg
+github - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.sv
+
+Software
+windows   - https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg
+linux     - https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
+vscode    - https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg
+fusion360 - https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png
+
+Hardware
+raspberrypi - https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg
+arduino     - https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg
+
+Socials
+facebook  - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-original.svg
+instagram - https://www.svgrepo.com/show/452229/instagram-1.svg
+linkedin  - https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg
