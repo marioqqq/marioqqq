@@ -29,13 +29,13 @@
                 <td>
                     <b>Email login automation</b><br>
                     Automaticaly login to email<br>
-                    <img src='https://img.shields.io/badge/Status-Done-orange' alt='Status'>
+                    <img src='https://img.shields.io/badge/Status-Done-blue' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Private-red' alt='Visibility'>
                 </td>
                 <td>
                     <a href='https://github.com/marioqqq/ESP32-CAM-water-meter-detection'><b>ESP32-CAM water meter detection</b></a><br>
                     Detect value of water meter using ESP32-CAM module and Raspberry Pi<br>
-                    <img src='https://img.shields.io/badge/Status-Done-orange' alt='Status'>
+                    <img src='https://img.shields.io/badge/Status-Done-blue' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
                 </td>
             </tr>
