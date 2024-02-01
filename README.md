@@ -3,14 +3,14 @@
         <h1>
             Welcome to my GitHub profile
         </h1>
-        <img src='https://avatars.githubusercontent.com/marioqqq' alt='Profile picture' width='100px;'/>
+        <img src='./icons/marioqqq.jpg' alt='Profile picture' width='100px;'/>
         <p>Hi, my name is Mario. I am a 24 year old application programmer working with <a href='https://inductiveautomation.com/ignition/'>Ignition platform</a> developed by <a href='https://inductiveautomation.com/'>inductive automation</a>. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
     </div>
     <div class='repositories'>
         <h2>
             Repositories
         </h2>
-        <table border='1' style='text-align:center; vertical-align:middle'>
+        <table border='1'>
             <tr>
                 <td>
                     <a href='https://github.com/marioqqq/HoneyLab'><b>HoneyLab</b></a><br>
@@ -45,7 +45,7 @@
         <h2>
             Tools I use
         </h2>
-        <table border='1' style='text-align:center; vertical-align:middle; margin-left: auto; margin-right: auto;'>
+        <table border='1'>
             <tr>
                 <td>
                     <b>Programming languages</b><br>
