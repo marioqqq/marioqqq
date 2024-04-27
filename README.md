@@ -4,7 +4,7 @@
             Welcome to my GitHub profile
         </h1>
         <img src='./icons/marioqqq.jpg' alt='Profile picture' width='100px;'/>
-        <p>Hi, my name is Mario. I am a 24 year old application programmer working with <a href='https://inductiveautomation.com/ignition/'>Ignition platform</a> developed by <a href='https://inductiveautomation.com/'>inductive automation</a>. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
+        <p>Hi, my name is Mario. I am a 24 year old IT Systems developer working in <a href='https://en.ipesoft.com/'>Ipesoft</a>. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
     </div>
     <div class='repositories'>
         <h2>
@@ -15,7 +15,7 @@
                 <td>
                     <a href='https://github.com/marioqqq/HoneyLab'><b>HoneyLab</b></a><br>
                     Automation and services on my home lab<br>
-                    <img src='https://img.shields.io/badge/Status-Active-gree' alt='Status'>
+                    <img src='https://img.shields.io/badge/Status-Almost_done-purple' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
                 </td>
                 <td>
