@@ -21,7 +21,7 @@
                 <td>
                     <b>Quality control</b><br>
                     Defect detection on quality control using ML and MV<br>
-                    <img src='https://img.shields.io/badge/Status-Active-gree' alt='Status'>
+                    <img src='https://img.shields.io/badge/Status-Done-blue' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Private-red' alt='Visibility'>
                 </td>
             </tr>
