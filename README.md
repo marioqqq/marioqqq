@@ -4,7 +4,7 @@
             Welcome to my GitHub profile
         </h1>
         <img src='./icons/marioqqq.jpg' alt='Profile picture' width='250px;'/>
-        <p>Hi, my name is Mario. I am a 24 year old self-employed IT developer. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
+        <p>Hi, my name is Mario. I am a 25 year old self-employed IT developer. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
     </div>
     <div class='repositories'>
         <h2>
