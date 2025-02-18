@@ -3,8 +3,12 @@
         <h1>
             Welcome to my GitHub profile
         </h1>
-        <img src='./icons/marioqqq.jpg' alt='Profile picture' width='250px;'/>
-        <p>Hi, my name is Mario. I am a 25 year old self-employed IT developer. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
+        <img src='./icons/marioqqq.jpg' alt='Profile picture' width='200px;'/>
+        <p>
+         <q><b>Never stop learning if you want to grow.</b></q> - Ing. Ján Rofár, PhD.
+        </p>
+        <p>Hi, my name is Mario. I am a 25 year old self-employed SCADA / MES developer and application programmer. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
+        <p>
     </div>
     <div class='repositories'>
         <h2>
@@ -136,13 +140,5 @@
                     <img src='./icons/arduino.svg' alt='arduino' width='25' height='25'/>
                 </td>
         </table>
-    </div>
-    <div class='socials'>
-        <h2>
-            Socials
-        </h2>
-        <a href='https://www.facebook.com/mario.michalik.3/'><img height='35' width='35' src='./icons/facebook.svg' alt='facebook'/></a>
-        <a href='https://www.instagram.com/marioqqqb2x2/'><img height='35' width='35' src='./icons/instagram.svg' alt='instagram'/></a>
-        <a href='https://www.linkedin.com/in/mario-michalik-110a06243'><img height='35' width='35' src='./icons/linkedin.svg' alt='linkedin'/></i></a>
     </div>
 </div>
