@@ -7,7 +7,7 @@
         <p>
          <q><b>Never stop learning if you want to grow.</b></q> - Ing. Ján Rofár, PhD.
         </p>
-        <p>Hi, my name is Mario. I am a 25 year old self-employed SCADA / MES developer and application programmer. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
+        <p>Hi, my name is Mario. I am a 26 year old self-employed SCADA / MES developer and application programmer. Besides my work projects, I am currently working on my own projects to improve myself in different areas.</p>
         <p>
     </div>
     <div class='repositories'>
