@@ -23,6 +23,20 @@
                     <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
                 </td>
                 <td>
+                    <a href='https://github.com/marioqqq/ups-recover'><b>UPS Recover</b></a><br>
+                    Lightweight UPS-aware Wake-on-LAN recovery for homelabs<br>
+                    <img src='https://img.shields.io/badge/Status-Development-yellow' alt='Status'>
+                    <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Energy consumption prediction</b><br>
+                    Predicting energy consumption using ML based on real-time weather data<br>
+                    <img src='https://img.shields.io/badge/Status-Development-yellow' alt='Status'>
+                    <img src='https://img.shields.io/badge/Visibility-Private-red' alt='Visibility'>
+                </td>
+                <td>
                     <b>Quality control</b><br>
                     Defect detection on quality control using ML and MV<br>
                     <img src='https://img.shields.io/badge/Status-Done-blue' alt='Status'>
