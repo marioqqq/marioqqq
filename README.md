@@ -23,38 +23,34 @@
                     <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
                 </td>
                 <td>
-                    <a href='https://github.com/marioqqq/ups-recover'><b>UPS Recover</b></a><br>
-                    Lightweight UPS-aware Wake-on-LAN recovery for homelabs<br>
-                    <img src='https://img.shields.io/badge/Status-Development-yellow' alt='Status'>
-                    <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
-                </td>
-            </tr>
-            <tr>
-                <td>
                     <b>Energy consumption prediction</b><br>
                     Predicting energy consumption using ML based on real-time weather data<br>
                     <img src='https://img.shields.io/badge/Status-Development-yellow' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Private-red' alt='Visibility'>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <b>Quality control</b><br>
                     Defect detection on quality control using ML and MV<br>
                     <img src='https://img.shields.io/badge/Status-Done-blue' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Private-red' alt='Visibility'>
                 </td>
-            </tr>
-            <tr>
                 <td>
                     <b>Email login automation</b><br>
                     Automaticaly login to email<br>
                     <img src='https://img.shields.io/badge/Status-Done-blue' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Private-red' alt='Visibility'>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a href='https://github.com/marioqqq/ESP32-CAM-water-meter-detection'><b>ESP32-CAM water meter detection</b></a><br>
                     Detect value of water meter using ESP32-CAM module and Raspberry Pi<br>
                     <img src='https://img.shields.io/badge/Status-Done-blue' alt='Status'>
                     <img src='https://img.shields.io/badge/Visibility-Public-gree' alt='Visibility'>
+                </td>
+                <td>
                 </td>
             </tr>
         </table>
